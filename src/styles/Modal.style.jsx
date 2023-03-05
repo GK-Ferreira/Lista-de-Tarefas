@@ -35,4 +35,11 @@ export const StyledModal = styled.div`
             transform: translateY(0);
         }
     }
+
+    @media (max-width:600px){
+        &{
+            width: 90%;
+            font-size: 20px;
+        }
+    }
 `

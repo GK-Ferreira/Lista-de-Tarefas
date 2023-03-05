@@ -25,7 +25,7 @@ export const StyledBox = styled.div`
     @media (max-width:600px) {
     & {
         width: 90%;
-        height: 75vh;
+        height: 64vh;
     }
     &::-webkit-scrollbar{
         display: none;
