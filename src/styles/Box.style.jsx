@@ -11,7 +11,7 @@ export const StyledBox = styled.div`
     padding: 20px;
     border-radius: 8px;
     overflow: hidden;
-    overflow-y: autogit ;
+    overflow-y: auto ;
     
     &::-webkit-scrollbar{
         background-color: rgba(255,255,255,0.3);
